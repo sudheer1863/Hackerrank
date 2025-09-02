@@ -5,11 +5,11 @@ Welcome! 👋
 This repository contains all the **HackerRank problems** I’ve solved across different domains.  
 You’ll find solutions implemented in multiple programming languages, including:  
 
-- 🐍 Python  
-- ☕ Java  
-- 💻 C  
-- ➕➕ C++  
-- 🗄️ SQL  
+- Python  
+- Java  
+- C  
+- C++  
+- SQL  
 - 🔧 And many more...  
 
 ## 📂 Repository Structure
