@@ -1,5 +1,5 @@
 
-# HackerRank Solutions in Python 🐍  
+# HackerRank Solutions in Python 
 
 Welcome! 👋  
 
